@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">labSheet04</string>
+    <string name="name">Name</string>
+    <string name="signUp">SignUp</string>
+    <string name="email">Email</string>
+    <string name="telephone">Telephone</string>
+    <string name="pasword">Password</string>
+    <string name="rePassword">Re-enter Yoor Password</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+</resources>
